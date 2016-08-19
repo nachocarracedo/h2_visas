@@ -1,2 +1,3 @@
 # h2_visas
-Get insights from h2_visas dataset.
+
+h2_visas_analysis.ipynb: Notebook that loads H2 Visas information of the US. Dataset is cleaned and explored.
