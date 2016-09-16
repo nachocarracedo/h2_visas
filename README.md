@@ -11,7 +11,7 @@ The analyses below depend on two major datasets from the Department of Labor, th
 * The Office of Foreign Labor Certification's records of visa-certification decisions for the H-2 visa program. (The visa comes in two types: H-2A for agricultural workers and H-2B for non-agricultural unskilled workers.) Obtained from here and here. The raw and processed data can be found in data/oflc-decisions.
 
 Main questions I wanted to answer:
-1.	How application status have change over time
-2.	How has the number of approved workers changed over time?
-3.	How has the number of approved workers changed over time?
-4.	Which states request the most visas and how has this changed over time?
+* How application status have change over time
+* How has the number of approved workers changed over time?
+* How has the number of approved workers changed over time?
+* Which states request the most visas and how has this changed over time?
